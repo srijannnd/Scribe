@@ -23,6 +23,7 @@
         {% for comment in post.comments.all %}
         <br>
             {% if user.is_authenticated or comment.approved_comment %}
+                <p>____________________________________________________________________</p>
                 {{ comment.create_date }}
                 {% if not comment.approved_comment %}
                     <a class="btn btn-default" href="{% url 'comment_remove' pk=comment.pk %}"><span class="glyphicon glyphicon-remove"></span></a>
@@ -33,6 +34,8 @@
 
                 <p>{{comment.text|safe|linebreaks}}</p>
                 <p>Posted by: {{comment.author}}</p>
+                <p>____________________________________________________________________</p>
+
 
             {% endif %}
             {% empty %}
