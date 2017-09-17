@@ -1,7 +1,6 @@
 # Scribe
 A Django Blog writing application.
 
-</br></br>
 # Post List
 ![alt text](https://github.com/srijannnd/Scribe/blob/master/Scribe%20Screenshots/scribe1.jpg)
 
