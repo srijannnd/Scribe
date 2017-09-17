@@ -9,7 +9,6 @@ A Django Blog writing application.
 # Post Form
 ![alt text](https://github.com/srijannnd/Scribe/blob/master/Scribe%20Screenshots/scribe2.jpg)
 
-</br></br>
 # Drafts
 ![alt text](https://github.com/srijannnd/Scribe/blob/master/Scribe%20Screenshots/scribe3.jpg)
 
@@ -25,6 +24,5 @@ A Django Blog writing application.
 # Comment Form
 ![alt text](https://github.com/srijannnd/Scribe/blob/master/Scribe%20Screenshots/scribe6.jpg)
 
-</br></br>
 # Post 
 ![alt text](https://github.com/srijannnd/Scribe/blob/master/Scribe%20Screenshots/scribe7.jpg)
