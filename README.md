@@ -27,4 +27,4 @@ A Django Blog writing application.
 
 </br></br>
 
-![alt text](https://github.com/srijannnd/Scribe/blob/master/Scribe%20Screenshots/scribe8.jpg)
+![alt text](https://github.com/srijannnd/Scribe/blob/master/Scribe%20Screenshots/scribe7.jpg)
